@@ -16,6 +16,7 @@
 ### 🛠 Tech Stack
 
 **Programming Language:**
+
 C++ | Python | Typescript | Javascript | C
 
 **Frontend:**  
