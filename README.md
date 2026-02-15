@@ -15,6 +15,9 @@
 
 ### 🛠 Tech Stack
 
+**Programming Language**
+C++ | Python | Typescript | Javascript | C
+
 **Frontend:**  
 React.js | JavaScript | HTML | CSS  
 
@@ -43,11 +46,7 @@ CRUD operations with proper state handling and validation.
 
 ---
 
-### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
 
 ### 🤝 Connect With Me
 
