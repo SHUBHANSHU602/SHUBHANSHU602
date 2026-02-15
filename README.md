@@ -50,5 +50,5 @@ CRUD operations with proper state handling and validation.
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Add Link]
+- LinkedIn: [https://www.linkedin.com/in/shubhanshu-singh-24a229339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: yourmail@example.com
