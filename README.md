@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhanshu Singh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Backend-Focused Engineer</h3>
+<h3 align="center">Full Stack Developer | AI_ML Undergraduate | Backend-Focused Engineer</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 
-**Programming Language**
+**Programming Language:**
 C++ | Python | Typescript | Javascript | C
 
 **Frontend:**  
