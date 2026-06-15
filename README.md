@@ -11,7 +11,7 @@
 
 ### 👤 About Me
 
-B.Tech CSE (AI/ML) student at NITRA Technical Campus (AKTU), graduating 2028. I build backend systems, contribute to production open-source tooling, and am actively preparing for a Microsoft SWE internship.
+B.Tech CSE (AI/ML) student at NITRA Technical Campus (AKTU), graduating 2028. I build backend systems, contribute to production open-source tooling, and am actively preparing for an SWE internship.
 
 > 🔥 **Currently:** AsyncAPI contributor (15+ merged PRs across `generator`, `website`, `.github`) | Building **RapidAid** for Microsoft Imagine Cup 2027 | 60-day Microsoft internship prep (DSA in C++ · System Design)
 
