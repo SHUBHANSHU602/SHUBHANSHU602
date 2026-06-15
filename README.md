@@ -78,7 +78,7 @@ End-to-end interview prep: Resume Analyzer, AI Resume Generator (template-first)
 
 ### 🎯 2025–26 Targets
 
-- 🏢 Microsoft SWE Internship
+- 🏢  SWE Internship
 - 🔧 AsyncAPI Maintainer Status  
 - 🏆 Microsoft Imagine Cup 2027 — RapidAid
 
